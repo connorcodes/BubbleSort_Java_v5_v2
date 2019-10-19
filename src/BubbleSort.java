@@ -29,7 +29,7 @@ public class BubbleSort {
 
     //Prints the sorted array on the screen
     public void printArray(int[] inputArray){
-        System.out.println("Here is your array after Bubble Sort!");
+        System.out.println("Here is your array after Bubble Sort!!!!!!!!!!");
         //loop to iterate through and print all values inline
         for(int i=0; i < inputArray.length; i++){
             System.out.print(inputArray[i] + " ");
